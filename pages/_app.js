@@ -11,7 +11,8 @@ const GlobalStyle = createGlobalStyle`
 
   body {
     font-family: sans-serif;
-    background-color: #D9E6F6;
+    /* background-image: url("https://www.socialbauru.com.br/wp-content/uploads/2020/01/capa-semana-de-imers%C3%A3o-em-astronomia-1240x540.png"); */
+    background-color: #666666;
   }
 
   #__next {
